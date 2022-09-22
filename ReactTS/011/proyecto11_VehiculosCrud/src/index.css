@@ -1,0 +1,29 @@
+.titulo{
+  color: #3a9193;
+  font-size: 50px;
+  font-weight: bold;
+}
+.resultado{
+  color: #1e2829;
+  font-size: 20px;
+  font-weight: bold;
+}.delete{
+  color:rgb(224, 61, 83);
+}.edit{
+  color:rgb(78, 161, 213);
+}.refresh{
+  color:rgb(141, 225, 81);
+}
+.render{
+  width: 100px;
+  height: auto;
+}.modal_render{
+  width: 500px;
+  height: auto;
+}.icono_render{
+  width: 20px;
+  height: auto;
+}.tamaño_not_found{
+  width: 200px;
+  height: auto;
+}
