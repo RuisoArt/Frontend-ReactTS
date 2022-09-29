@@ -21,6 +21,11 @@ export const Header = () => {
                 </Link>
               </li>
               <li className="nav-item dropdown">
+                <Link className="nav-link" to="/edit">
+                  Admin
+                </Link>
+              </li>
+              <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
                   href="/#"
