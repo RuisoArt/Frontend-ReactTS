@@ -1,0 +1,48 @@
+Extencion DotEnv
+Extencion MongoDB for VSCode
+
+
+npm init
+npm i cors
+npm i morgan
+npm i express
+npm i mongoose
+npm i bcryptjs
+npm i jsonwebtoken
+
+npm i dotenv --save-dev
+npm i nodemon --save-dev
+npm i @types/cors --save-dev
+npm i @types/morgan --save-dev
+npm i @types/express --save-dev
+npm i @types/jsonwebtoken --save-dev
+
+tsc --init
+
+	Si sale error, abrir powershell en Admin.
+		get-executionpolicy --> restricted
+		set-executionpolicy unrestricted
+	
+	Si no esta instalado Typescript
+		npm i -g typescript
+
+In "tscondig.json" FILE change:
+	
+	enable --> "outDir": "./",
+	change --> "outDir": "./build",
+
+In "package.json" FILE change:
+	this:
+		"scripts": {
+    			"test": "echo \"Error: no test specified\" && exit 1"
+  			}
+	für this:
+		"scripts": {
+    			"test": "echo \"Error: no test specified\" && exit 1",
+    			"build": "tsc -w",
+    			"dev": "nodemon build/index.js"
+  			}
+
+
+Para transpilar el codigo: npm run build
+Para correr el codigo: npm run dev

@@ -1,0 +1,25 @@
+Extenciones Visual Studio
+version 2022
+
+Auto Import
+C#
+DotENV
+ES7+ React/Redux/React-Native scippets
+HTML CSS Support
+isort
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Slide Show
+Live Server
+MongoDB for VS Code
+npm
+Pylance
+Python
+React Native Tools
+Tabnine AI
+The Doki Theme
+Thunder Client
+vscode-icons
+Prettier

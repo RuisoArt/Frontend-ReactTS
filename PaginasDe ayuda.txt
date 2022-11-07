@@ -1,0 +1,6 @@
+https://www.base64-image.de/
+https://jwt.io/
+https://react-bootstrap.netlify.app/
+https://python-charts.com/
+https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+http://repec.sowi.unibe.ch/stata/palettes/colors.html
