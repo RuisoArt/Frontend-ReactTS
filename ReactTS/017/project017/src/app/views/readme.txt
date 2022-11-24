@@ -1,0 +1,1 @@
+# en las vistas es recomendable que solo aparesca lo que el usuario solo ve una unica vez
